@@ -1,2 +1,2 @@
 # mohammad_azaruddin_shaik
-I've used python for code solving
+I've used "Python" for code solving
